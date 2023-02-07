@@ -3,7 +3,7 @@ let student1 = {
     name:"Jessica",
     age:99,
     gpa:3.9,
-    music:["coldplay","bad bunny"]
+    music:["coldplay","bad bunny"],
     address: {
         country:"USA",
         city:"San Diego"
