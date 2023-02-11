@@ -21,5 +21,5 @@ function displayFooterInfo(){
 function initFooter(){
         displayFooterInfo();
 }
-window.onload=initFooter;
+//window.onload=initFooter;
 
